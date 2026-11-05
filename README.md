@@ -1,4 +1,4 @@
-# 🍄🚲 Mushroom & Bicycle Management System
+# 🍄🚲 Mushroom & Bicycle Choice System
 
 A C# Windows Forms desktop application developed using **.NET Framework 4.7.2**. The application combines a mushroom identification quiz and a bicycle rental cost calculator in one simple, interactive desktop system.
 
